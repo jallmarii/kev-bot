@@ -40,7 +40,7 @@ module.exports = {
             const dispatcher = connection.play(gd.audioDict[_audio]);
             dispatcher.on("finish", end => {VC.leave()});
 
-             // On every play log the play, use playType to log what type of play it was
+            // On every play log the play, use playType to log what type of play it was
             try {
                 logAudioPlaySQL(_discordId, _audio, _playType);
             } catch (err) {
