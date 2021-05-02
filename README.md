@@ -1,7 +1,7 @@
-kev-bot
+CHRIS-bot
 =================
 
-kev-bot is a discord bot for playing custom audio clips. The bot utilizes the discord.js library, MySQL, Google Cloud Storage and Heroku. See below for more information.
+CHRIS-bot is a discord bot for playing custom audio clips. The bot utilizes the discord.js library, MySQL, Google Cloud Storage and Heroku. See below for more information.
 
 Table of contents
 =================
